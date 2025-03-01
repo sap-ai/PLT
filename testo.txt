@@ -1,5 +1,6 @@
 gyatt:
 i = 0
+//dont use txt format use plt file format from now on
 :gyatt
 rizz:
 i
