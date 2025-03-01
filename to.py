@@ -1,4 +1,4 @@
-file = open(input())
+file = open(input() + ".plt")
 item = ""
 ps = ""
 l = 0
