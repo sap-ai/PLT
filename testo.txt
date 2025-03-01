@@ -1,0 +1,8 @@
+gyatt:
+i = 0
+:gyatt
+rizz:
+i
+hello world
+i
+:rizz
